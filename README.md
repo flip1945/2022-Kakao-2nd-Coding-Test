@@ -2,6 +2,8 @@
 
 2022 카카오 2차 코딩테스트 합격 코드입니다.
 
+모든 문제는 파이썬으로 풀었고, 최대한 간단하게 풀려고 노력했습니다.
+
 ## 문제 및 해설
 
 - 문제 : https://programmers.co.kr/skill_check_assignments/265
